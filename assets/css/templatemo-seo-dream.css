@@ -200,7 +200,7 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #33ccc5;
+  color: green;
 }
 
 .section-heading h2 span {
@@ -229,7 +229,7 @@ body {
 
 .main-green-button a {
   display: inline-block;
-  background-color: #33ccc5;
+  background-color: green;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -244,7 +244,7 @@ body {
 .main-green-button a:hover {
   background-color: #4771cb!important;
   color: #fff!important;
-  border-bottom: 2px solid #33ccc5!important;
+  border-bottom: 2px solid green!important;
 }
 
 
@@ -270,7 +270,7 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #33ccc5;
+  color: green;
 }
 
 .background-header .nav li a.active {
@@ -462,7 +462,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #33ccc5!important;
+  color: green!important;
   padding-left: 25px;
 }
 
@@ -502,7 +502,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #fff;
+  background-color: green;
   display: block;
   position: absolute;
   width: 30px;
@@ -513,7 +513,7 @@ header
 .background-header .main-nav .menu-trigger span,
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #fff;
+  background-color: green;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -522,7 +522,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #fff;
+  background-color:green;
   display: block;
   position: absolute;
   width: 30px;
@@ -533,7 +533,7 @@ header
 
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #fff;
+  background-color: green;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -602,7 +602,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #34e4dc;
+  color: green;
 }
 
 @media (max-width: 1200px) {
@@ -635,14 +635,14 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #33ccc5!important;
+    color: green!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
     width: 100%;
   }
   .header-area {
-    background-color: #33ccc5;
+    background-color: #ffffff;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -696,7 +696,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #33ccc5!important;
+    color: green!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -810,7 +810,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #33ccc5;
+    background: green;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -833,7 +833,7 @@ preloader
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background: #33ccc5;
+    background: green;
     border-radius: 50%;
 }
 
@@ -907,10 +907,10 @@ Banner Style
   font-weight: 800;
   color: #2a2a2a;
   line-height: 72px;
-  background: #FA9D4D;
-  background: -webkit-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: -moz-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
+  background: green;
+  background: -webkit-linear-gradient(to right, green 0%, #2bda9a 100%);
+  background: -moz-linear-gradient(to right, green 0%, #2bda9a 100%);
+  background: linear-gradient(to right, green 0%, #2bda9a 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -924,10 +924,10 @@ Banner Style
   font-weight: 800;
   color: #2a2a2a;
   line-height: 72px;
-  background: #FA9D4D;
-  background: -webkit-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: -moz-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
+  background: green;
+  background: -webkit-linear-gradient(to right, green 0%, #2bda9a 100%);
+  background: -moz-linear-gradient(to right, green 0%, #2bda9a 100%);
+  background: linear-gradient(to right, green 0%, #2bda9a 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -975,8 +975,8 @@ Features Style
 }
 
 .features-item:hover {
-  background: rgb(51,204,197);
-  background: linear-gradient(105deg, rgba(51,204,197,1) 0%, rgba(8,141,195,1) 100%);
+  background: rgb(10, 153, 48);
+  background: linear-gradient(105deg, rgb(10, 153, 48) 0%, rgb(109, 243, 194) 100%);
 }
 
 .features-item:hover h4 {
@@ -1430,8 +1430,8 @@ Portfolio
   position: absolute;
   left: 0;
   top: 0;
-  background: rgb(51,204,197);
-  background: linear-gradient(105deg, rgba(51,204,197,1) 0%, rgba(8,141,195,1) 100%);
+  background: green;
+  background: linear-gradient(105deg, green 0%, #2bda9a 100%);
   width: 100%;
   height: 100%;
   opacity: 0;
@@ -1500,7 +1500,7 @@ contact
 .contact-us {
   margin-top: 90px;
   padding: 120px 0px;
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/background.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1594,25 +1594,25 @@ form#contact textarea::placeholder {
 
 form#contact button {
   display: inline-block;
-  background-color: #33ccc5;
+  background-color: lightgreen;
   font-size: 15px;
   font-weight: 400;
-  color: #fff;
+  color: green;
   margin-top: 20px;
   text-transform: capitalize;
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #4771cb!important;
+  border-bottom: 2px solid green!important;
   transition: all .3s;
   outline: none;
   border: none;
 }
 
 form#contact button:hover {
-  background-color: #4771cb!important;
-  color: #fff!important;
-  border-bottom: 2px solid #33ccc5!important;
+  background-color: green!important;
+  color:lightgreen !important;
+  border-bottom: 2px solid lightgreen!important;
 }
 
 /* 
@@ -1646,8 +1646,9 @@ responsive
     font-size: 24px;
   }
   .header-area .main-nav .logo h4 img {
-    max-width: 25px;
-    margin-left: 0px;
+    max-width: 200px;
+    margin-top: -10px;
+    margin-left: 5px;
   }
   .header-area .main-nav .nav li:last-child {
     padding-left: 20px;
@@ -1709,7 +1710,8 @@ responsive
     font-size: 30px;
   }
   .header-area .main-nav .logo h4 img {
-    max-width: 30px;
+    max-width: 200px;
+    margin-top: -10px;
     margin-left: 5px;
   }
   .main-banner .info-stat {
